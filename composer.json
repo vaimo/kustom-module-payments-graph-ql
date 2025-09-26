@@ -2,11 +2,11 @@
    "name": "vaimo/kustom-module-payments-graph-ql",
     "description": "Kustom KpGraphQl Magento 2 Extension",
     "type": "magento2-module",
-    "version": "3.0.17",
+    "version": "3.0.18",
     "license": "Apache-2.0",
     "require": {
         "vaimo/kustom-module-base": "11.0.12",
-        "vaimo/kustom-module-payments": "10.0.17",
+        "vaimo/kustom-module-payments": ">=10.0.17",
         "magento/framework": "^103",
         "magento/module-quote-graph-ql": "^100",
         "magento/module-store": "^101.0",
